@@ -1,0 +1,1 @@
+Ground survey data taken in Majalengka region (outside the main ROI) for training and validation of proposed model 
